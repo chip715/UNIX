@@ -1,0 +1,68 @@
+[
+{
+  "directory": "C:/Users/yeon7/Main drive/Academia/UCSB Doc/2026 Winter Quarter/MAT240B/UNIX/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od -std:c++14 -MDd -RTC1 -Zi /FoCMakeFiles\\wav-write.dir\\wav-write.cpp.obj /FdCMakeFiles\\wav-write.dir\\ /FS -c \"C:\\Users\\yeon7\\Main drive\\Academia\\UCSB Doc\\2026 Winter Quarter\\MAT240B\\UNIX\\wav-write.cpp\"",
+  "file": "C:/Users/yeon7/Main drive/Academia/UCSB Doc/2026 Winter Quarter/MAT240B/UNIX/wav-write.cpp",
+  "output": "C:/Users/yeon7/Main drive/Academia/UCSB Doc/2026 Winter Quarter/MAT240B/UNIX/build/CMakeFiles/wav-write.dir/wav-write.cpp.obj"
+},
+{
+  "directory": "C:/Users/yeon7/Main drive/Academia/UCSB Doc/2026 Winter Quarter/MAT240B/UNIX/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od -std:c++14 -MDd -RTC1 -Zi /FoCMakeFiles\\wav-read.dir\\wav-read.cpp.obj /FdCMakeFiles\\wav-read.dir\\ /FS -c \"C:\\Users\\yeon7\\Main drive\\Academia\\UCSB Doc\\2026 Winter Quarter\\MAT240B\\UNIX\\wav-read.cpp\"",
+  "file": "C:/Users/yeon7/Main drive/Academia/UCSB Doc/2026 Winter Quarter/MAT240B/UNIX/wav-read.cpp",
+  "output": "C:/Users/yeon7/Main drive/Academia/UCSB Doc/2026 Winter Quarter/MAT240B/UNIX/build/CMakeFiles/wav-read.dir/wav-read.cpp.obj"
+},
+{
+  "directory": "C:/Users/yeon7/Main drive/Academia/UCSB Doc/2026 Winter Quarter/MAT240B/UNIX/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od -std:c++14 -MDd -RTC1 -Zi /FoCMakeFiles\\sine-sweep.dir\\sine-sweep.cpp.obj /FdCMakeFiles\\sine-sweep.dir\\ /FS -c \"C:\\Users\\yeon7\\Main drive\\Academia\\UCSB Doc\\2026 Winter Quarter\\MAT240B\\UNIX\\sine-sweep.cpp\"",
+  "file": "C:/Users/yeon7/Main drive/Academia/UCSB Doc/2026 Winter Quarter/MAT240B/UNIX/sine-sweep.cpp",
+  "output": "C:/Users/yeon7/Main drive/Academia/UCSB Doc/2026 Winter Quarter/MAT240B/UNIX/build/CMakeFiles/sine-sweep.dir/sine-sweep.cpp.obj"
+},
+{
+  "directory": "C:/Users/yeon7/Main drive/Academia/UCSB Doc/2026 Winter Quarter/MAT240B/UNIX/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od -std:c++14 -MDd -RTC1 -Zi /FoCMakeFiles\\impulse.dir\\impulse.cpp.obj /FdCMakeFiles\\impulse.dir\\ /FS -c \"C:\\Users\\yeon7\\Main drive\\Academia\\UCSB Doc\\2026 Winter Quarter\\MAT240B\\UNIX\\impulse.cpp\"",
+  "file": "C:/Users/yeon7/Main drive/Academia/UCSB Doc/2026 Winter Quarter/MAT240B/UNIX/impulse.cpp",
+  "output": "C:/Users/yeon7/Main drive/Academia/UCSB Doc/2026 Winter Quarter/MAT240B/UNIX/build/CMakeFiles/impulse.dir/impulse.cpp.obj"
+},
+{
+  "directory": "C:/Users/yeon7/Main drive/Academia/UCSB Doc/2026 Winter Quarter/MAT240B/UNIX/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od -std:c++14 -MDd -RTC1 -Zi /FoCMakeFiles\\sawtooth.dir\\sawtooth.cpp.obj /FdCMakeFiles\\sawtooth.dir\\ /FS -c \"C:\\Users\\yeon7\\Main drive\\Academia\\UCSB Doc\\2026 Winter Quarter\\MAT240B\\UNIX\\sawtooth.cpp\"",
+  "file": "C:/Users/yeon7/Main drive/Academia/UCSB Doc/2026 Winter Quarter/MAT240B/UNIX/sawtooth.cpp",
+  "output": "C:/Users/yeon7/Main drive/Academia/UCSB Doc/2026 Winter Quarter/MAT240B/UNIX/build/CMakeFiles/sawtooth.dir/sawtooth.cpp.obj"
+},
+{
+  "directory": "C:/Users/yeon7/Main drive/Academia/UCSB Doc/2026 Winter Quarter/MAT240B/UNIX/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od -std:c++14 -MDd -RTC1 -Zi /FoCMakeFiles\\square.dir\\square.cpp.obj /FdCMakeFiles\\square.dir\\ /FS -c \"C:\\Users\\yeon7\\Main drive\\Academia\\UCSB Doc\\2026 Winter Quarter\\MAT240B\\UNIX\\square.cpp\"",
+  "file": "C:/Users/yeon7/Main drive/Academia/UCSB Doc/2026 Winter Quarter/MAT240B/UNIX/square.cpp",
+  "output": "C:/Users/yeon7/Main drive/Academia/UCSB Doc/2026 Winter Quarter/MAT240B/UNIX/build/CMakeFiles/square.dir/square.cpp.obj"
+},
+{
+  "directory": "C:/Users/yeon7/Main drive/Academia/UCSB Doc/2026 Winter Quarter/MAT240B/UNIX/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od -std:c++14 -MDd -RTC1 -Zi /FoCMakeFiles\\triangle.dir\\triangle.cpp.obj /FdCMakeFiles\\triangle.dir\\ /FS -c \"C:\\Users\\yeon7\\Main drive\\Academia\\UCSB Doc\\2026 Winter Quarter\\MAT240B\\UNIX\\triangle.cpp\"",
+  "file": "C:/Users/yeon7/Main drive/Academia/UCSB Doc/2026 Winter Quarter/MAT240B/UNIX/triangle.cpp",
+  "output": "C:/Users/yeon7/Main drive/Academia/UCSB Doc/2026 Winter Quarter/MAT240B/UNIX/build/CMakeFiles/triangle.dir/triangle.cpp.obj"
+},
+{
+  "directory": "C:/Users/yeon7/Main drive/Academia/UCSB Doc/2026 Winter Quarter/MAT240B/UNIX/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od -std:c++14 -MDd -RTC1 -Zi /FoCMakeFiles\\impulse-sweep.dir\\impulse-sweep.cpp.obj /FdCMakeFiles\\impulse-sweep.dir\\ /FS -c \"C:\\Users\\yeon7\\Main drive\\Academia\\UCSB Doc\\2026 Winter Quarter\\MAT240B\\UNIX\\impulse-sweep.cpp\"",
+  "file": "C:/Users/yeon7/Main drive/Academia/UCSB Doc/2026 Winter Quarter/MAT240B/UNIX/impulse-sweep.cpp",
+  "output": "C:/Users/yeon7/Main drive/Academia/UCSB Doc/2026 Winter Quarter/MAT240B/UNIX/build/CMakeFiles/impulse-sweep.dir/impulse-sweep.cpp.obj"
+},
+{
+  "directory": "C:/Users/yeon7/Main drive/Academia/UCSB Doc/2026 Winter Quarter/MAT240B/UNIX/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od -std:c++14 -MDd -RTC1 -Zi /FoCMakeFiles\\sawtooth-sweep.dir\\sawtooth-sweep.cpp.obj /FdCMakeFiles\\sawtooth-sweep.dir\\ /FS -c \"C:\\Users\\yeon7\\Main drive\\Academia\\UCSB Doc\\2026 Winter Quarter\\MAT240B\\UNIX\\sawtooth-sweep.cpp\"",
+  "file": "C:/Users/yeon7/Main drive/Academia/UCSB Doc/2026 Winter Quarter/MAT240B/UNIX/sawtooth-sweep.cpp",
+  "output": "C:/Users/yeon7/Main drive/Academia/UCSB Doc/2026 Winter Quarter/MAT240B/UNIX/build/CMakeFiles/sawtooth-sweep.dir/sawtooth-sweep.cpp.obj"
+},
+{
+  "directory": "C:/Users/yeon7/Main drive/Academia/UCSB Doc/2026 Winter Quarter/MAT240B/UNIX/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od -std:c++14 -MDd -RTC1 -Zi /FoCMakeFiles\\square-sweep.dir\\square-sweep.cpp.obj /FdCMakeFiles\\square-sweep.dir\\ /FS -c \"C:\\Users\\yeon7\\Main drive\\Academia\\UCSB Doc\\2026 Winter Quarter\\MAT240B\\UNIX\\square-sweep.cpp\"",
+  "file": "C:/Users/yeon7/Main drive/Academia/UCSB Doc/2026 Winter Quarter/MAT240B/UNIX/square-sweep.cpp",
+  "output": "C:/Users/yeon7/Main drive/Academia/UCSB Doc/2026 Winter Quarter/MAT240B/UNIX/build/CMakeFiles/square-sweep.dir/square-sweep.cpp.obj"
+},
+{
+  "directory": "C:/Users/yeon7/Main drive/Academia/UCSB Doc/2026 Winter Quarter/MAT240B/UNIX/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od -std:c++14 -MDd -RTC1 -Zi /FoCMakeFiles\\triangle-sweep.dir\\triangle-sweep.cpp.obj /FdCMakeFiles\\triangle-sweep.dir\\ /FS -c \"C:\\Users\\yeon7\\Main drive\\Academia\\UCSB Doc\\2026 Winter Quarter\\MAT240B\\UNIX\\triangle-sweep.cpp\"",
+  "file": "C:/Users/yeon7/Main drive/Academia/UCSB Doc/2026 Winter Quarter/MAT240B/UNIX/triangle-sweep.cpp",
+  "output": "C:/Users/yeon7/Main drive/Academia/UCSB Doc/2026 Winter Quarter/MAT240B/UNIX/build/CMakeFiles/triangle-sweep.dir/triangle-sweep.cpp.obj"
+}
+]
