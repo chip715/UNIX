@@ -1,2 +1,5 @@
 *.wav
 build/
+.vscode/
+*.exe
+*.o
